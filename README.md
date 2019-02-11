@@ -1,4 +1,4 @@
-# rnaseq-tcga
+# Differential Expression Analysis using DESeq2 on RNAseq data from TCGA
 This jupyter notebook is written for use with an R kernel.
 
 The notebook details steps from locating publically-available RNAseq counts, abundance, and clinical data from TCGA through identification of differentially expressed genes with DESeq2 and the visualization of th results.
