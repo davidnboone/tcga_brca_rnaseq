@@ -52,7 +52,7 @@ Once this is setup, we can go to work.
 At this point, you should have the URL for your own personal copy of this repository. You will now need to clone it into your Jupyter environment.
 
 1. Go to your Jupyter home page (the easiest way to do this is to use the command ```jupyter notebook``` from the command prompt). Click "New" on the top right, and select ["Terminal"](https://github.com/dbmi-pitt/SocialMediaDataScience/blob/master/images/new-terminal.png). This will create a linux command-line terminal window in the browser. Alternatively, if you are using JupyterHub, press the "Terminal" button in the Launcher screen.
-2. run "git clone .." followed by the URL of your repository. You will need to provide your GitHub or GitLab user name and password.
+2. run ```git clone ...``` replacing the ... with the URL of your repository. You will need to provide your GitHub or GitLab user name and password.
 3. In a new browser tab (or in an existing browser tab if you already have it open), go to the home page of your Jupyter environment. You will see a new directory, likely entitled "rnaseq-tcga". This is where you will do your work. If you are using JupyterLab, this directory will appear in the file browser on the left.
 
 ## 5. Start a Jupyter notebook and do your work
