@@ -12,7 +12,7 @@ For new users, I highly recommend installing Jupyter through Anaconda following 
 
 For this particular assignment, you will also need R. You can download and find installation instructions [here](https://www.r-project.org/).
 
-After R is installed, it needs to be configured for Jupyter to establish an RKernal. You can do this by installing an [RKernal](https://irkernel.github.io/installation/). Follow the instructions on the page and be sure to launch R from the command line instead of the app icon. Installation of the RKernal will fail if you launch from the app icon.
+After R is installed, it needs to be configured for Jupyter to establish an RKernel. You can do this by installing an [RKernel](https://irkernel.github.io/installation/). Follow the instructions on the page and be sure to launch R from the command line instead of the app icon. Installation of the RKernel will fail if you launch from the app icon.
 
 
 **note** For R projects, I highly recommend using [RStudio](https://www.rstudio.com/products/rstudio/download/) and RMarkdown instead of Jupyter Notebooks, but that will not be required to complete this module, which was written in Jupyter for purpose of instruction.
